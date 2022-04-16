@@ -1,0 +1,19 @@
+/*this is the stylesheet i made myself*/
+mn{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+a{ font-weight: 400;}
+
+.column {
+    float: left;
+    width: 25%;
+  }
+  
+ 
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+
+head{font-size: xx-large;}
